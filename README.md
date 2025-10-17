@@ -1,5 +1,5 @@
 # ZombieClicker
-unzip Zombie Clicker and execute ZombieClicker.exe to play
+Unzip Zombie Clicker and execute ZombieClicker.exe to play
 This game is a clicker game with zombie that can attack the player when they touch them. One click does 1 damage to the nearest zombie.
 Killing a zombie gives gold to the player, gold can be used to buy upgrades for the gun or for the turret which deals passive damage to the zombies.
 The player has 5 HP, losing them all ends the game.
